@@ -7,7 +7,7 @@ This template is preconfigured with Webpack as a build tool and TailwindCSS.
 ### Clone the repository
 
 ```bash
-git@github.com:tufancal/tailwind-shopify-template.git
+git clone git@github.com:tufancal/tailwind-shopify-template.git
 ```
 
 ### Install dependencies
