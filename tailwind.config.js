@@ -1,5 +1,5 @@
 module.exports = {
-  content: ['./theme/*.{liquid,html,js,json}'],
+  content: ['./theme/**/*.{liquid,html,js,json}'],
   theme: {
     extend: {},
   },
